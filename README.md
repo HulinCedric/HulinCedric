@@ -14,7 +14,7 @@ Enthusiast & Passionate Agile Software Crafter
 - 🛢 T-SQL
 - 🔧 Git
 
-[![Cedric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HulinCedric&show_icons=true)](https://github.com/HulinCedric)
+[![Cedric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HulinCedric&show_icons=true&count_private=true&hide_rank=true)](https://github.com/HulinCedric)
 
 ### 🤝🏻 Connect with Me
 
